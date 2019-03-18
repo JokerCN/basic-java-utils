@@ -1,5 +1,7 @@
+.idea
+.idea/libraries
+
 *.iml
-.idea/*.xml
 
 # Compiled class file
 *.class
